@@ -45,3 +45,6 @@ split by churn status.
 See [sql/churn_queries.sql](sql/churn_queries.sql) for the full query set, 
 including CTEs (tenure analysis) and window functions (RANK for top 
 high-balance churned customers).
+
+## Related Projects
+- [Content Investment Gap Analysis](https://github.com/dhivyashrirethinakumar-06/youtube-content-gap-analysis) — SQL + Tableau (Media Analytics)
